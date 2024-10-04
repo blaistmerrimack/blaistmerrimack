@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi, I'm Tim Blais. I'm a software engineer with experience in:
+- Javascript
+- Typescript
+- Python
+- Java
+- React
+- NextJS
+- NodeJS
+- Git
 
 <!--
 **blaistmerrimack/blaistmerrimack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
